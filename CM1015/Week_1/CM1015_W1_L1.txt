@@ -1,0 +1,13 @@
+"write a javascript code display the following:"
+a)	
+alert ("Computing is great?");
+b)
+alert ("Alice says \"Bob is here\"");
+c)
+
+D)
+alert ("RGU's new campus");
+2
+alert("X\nXX\nXXX\nXXXX\nXXXXX");
+3
+alert("XXXXX\nX      X\nX      X\nX      X\nXXXXX");
